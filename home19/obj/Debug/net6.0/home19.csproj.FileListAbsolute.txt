@@ -1,0 +1,15 @@
+C:\Users\mutof\OneDrive\Рабочий стол\NewHome\home19\bin\Debug\net6.0\home19.exe
+C:\Users\mutof\OneDrive\Рабочий стол\NewHome\home19\bin\Debug\net6.0\home19.deps.json
+C:\Users\mutof\OneDrive\Рабочий стол\NewHome\home19\bin\Debug\net6.0\home19.runtimeconfig.json
+C:\Users\mutof\OneDrive\Рабочий стол\NewHome\home19\bin\Debug\net6.0\home19.dll
+C:\Users\mutof\OneDrive\Рабочий стол\NewHome\home19\bin\Debug\net6.0\home19.pdb
+C:\Users\mutof\OneDrive\Рабочий стол\NewHome\home19\obj\Debug\net6.0\home19.csproj.AssemblyReference.cache
+C:\Users\mutof\OneDrive\Рабочий стол\NewHome\home19\obj\Debug\net6.0\home19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mutof\OneDrive\Рабочий стол\NewHome\home19\obj\Debug\net6.0\home19.AssemblyInfoInputs.cache
+C:\Users\mutof\OneDrive\Рабочий стол\NewHome\home19\obj\Debug\net6.0\home19.AssemblyInfo.cs
+C:\Users\mutof\OneDrive\Рабочий стол\NewHome\home19\obj\Debug\net6.0\home19.csproj.CoreCompileInputs.cache
+C:\Users\mutof\OneDrive\Рабочий стол\NewHome\home19\obj\Debug\net6.0\home19.dll
+C:\Users\mutof\OneDrive\Рабочий стол\NewHome\home19\obj\Debug\net6.0\refint\home19.dll
+C:\Users\mutof\OneDrive\Рабочий стол\NewHome\home19\obj\Debug\net6.0\home19.pdb
+C:\Users\mutof\OneDrive\Рабочий стол\NewHome\home19\obj\Debug\net6.0\home19.genruntimeconfig.cache
+C:\Users\mutof\OneDrive\Рабочий стол\NewHome\home19\obj\Debug\net6.0\ref\home19.dll
